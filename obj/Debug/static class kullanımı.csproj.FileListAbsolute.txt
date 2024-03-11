@@ -1,0 +1,10 @@
+C:\Users\ezelc\Desktop\static class kullanımı\bin\Debug\static class kullanımı.exe.config
+C:\Users\ezelc\Desktop\static class kullanımı\bin\Debug\static class kullanımı.exe
+C:\Users\ezelc\Desktop\static class kullanımı\bin\Debug\static class kullanımı.pdb
+C:\Users\ezelc\Desktop\static class kullanımı\obj\Debug\static class kullanımı.csproj.AssemblyReference.cache
+C:\Users\ezelc\Desktop\static class kullanımı\obj\Debug\static_class_kullanımı.Form1.resources
+C:\Users\ezelc\Desktop\static class kullanımı\obj\Debug\static_class_kullanımı.Properties.Resources.resources
+C:\Users\ezelc\Desktop\static class kullanımı\obj\Debug\static class kullanımı.csproj.GenerateResource.cache
+C:\Users\ezelc\Desktop\static class kullanımı\obj\Debug\static class kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\ezelc\Desktop\static class kullanımı\obj\Debug\static class kullanımı.exe
+C:\Users\ezelc\Desktop\static class kullanımı\obj\Debug\static class kullanımı.pdb
